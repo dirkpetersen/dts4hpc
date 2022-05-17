@@ -7,3 +7,6 @@ The perfect desktop for HPC users / data scientists: Windows 11 with WSL and man
 
 Installing OpenSSH for Windows 
 https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse
+
+
+https://ubuntu.com/blog/wsl-for-data-scientist
